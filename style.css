@@ -1,0 +1,21 @@
+#blueHeader {
+    background-color: navy;
+}
+
+.display-4 {
+    color: white;
+    text-align: center;
+    
+}
+
+#grayBorder {
+    float: center;
+    margin: 10px;
+    padding:20px;
+    border: 2px solid lightgray;
+}
+
+.spFont{
+    background-color: lightgray;
+    border: 2px solid lightgray;
+}
